@@ -2,3 +2,4 @@ my:
   greeting: hello world
   list:
     values: one,two,three
+  name:nikki
